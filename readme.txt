@@ -14,6 +14,7 @@ login Credentials:
 In the dashboard page data display with above credentials . we can perform CRUD operation on the data.
 
 Oracle Database attached
-there are two tables
+there are two tables with following columns
 1) users - id, username, password
 2) orders -ordered,id,productid, productname, totalamount
+
